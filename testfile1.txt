@@ -6,4 +6,4 @@ git status //zeigt an, welche Dateien noch "uncommited" sind
 git rm datei.txt //entfernt Datei
 git diff, zeigt an, ob nicht commitete änderungen vorhanden sind. grün: das was hinzukam, rot was entfernt wurde.
 Will man eine Datei löschen, löscht man sie ganz normal im Editor der Datei selbst, dann wieder git add "Dateiname" und dann git commit -m"..." bestätigt das löschen. oder besser man benutzt: git rm dateiname.txt
-
+ddddddd
