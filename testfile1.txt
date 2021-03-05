@@ -1,0 +1,6 @@
+git init "NameDesGitOrdners" //erstellt einen Git Ordner, enthält die Histrie-diles und zu bearbeitenden files. 
+git add "Dateiname" // nicht permanent, sagt, dass die Datei im nächsten Commit dabei ist
+git commit -m"m nutzt man um einen Kommentar in diesen Gänsefüßchen zu schreiben" // erstellt einen Snapshot von der aktuellen Dateiversion. Danach den Dateinamen hinschreiben. 
+git checkout master //holt die aktuelle Master version.
+
+
